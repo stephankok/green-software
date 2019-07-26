@@ -1,0 +1,17 @@
+# Skip maven 'target' directory
+target
+codemr
+
+# plus eclipse artifacts
+.classpath
+.project
+.settings
+
+# plus intellij files
+*.ipr
+*.iws
+*.iml
+.idea
+
+# and emacs temp save files
+*~
