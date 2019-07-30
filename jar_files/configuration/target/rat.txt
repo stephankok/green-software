@@ -1,0 +1,743 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2019-06-17T16:17:27+02:00
+
+Notes: 4
+Binaries: 5
+Archives: 0
+Standards: 644
+
+Apache Licensed: 636
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+1 Unknown Licenses
+
+*****************************************************
+
+Files with unapproved licenses:
+
+  /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/TestRunner.java
+
+*****************************************************
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/.travis.yml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/PROPOSAL.html
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/pom.xml
+  N     /home/stephan/Desktop/applications/original/commons-configuration-2.5/RELEASE-NOTES.txt
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/javacc/PropertyListParser.jj
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/resources/PropertyList-1.0.dtd
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/resources/properties.dtd
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/assembly/bin.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/assembly/src.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/JNDIConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/ImmutableConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/ConfigurationMap.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/sync/Synchronizer.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/sync/SynchronizerSupport.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/sync/LockMode.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/sync/package-info.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/sync/NoOpSynchronizer.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/sync/ReadWriteSynchronizer.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/HierarchicalConfigurationXMLReader.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/INIConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/PatternSubtreeConfigurationWrapper.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/CombinedConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/XMLPropertiesConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/BaseHierarchicalConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/BaseConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/JSONConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/interpol/DefaultLookups.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/interpol/Lookup.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/interpol/EnvironmentLookup.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/interpol/ConfigurationInterpolator.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/interpol/ConstantLookup.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/interpol/SystemPropertiesLookup.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/interpol/ExprLookup.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/interpol/package-info.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/interpol/InterpolatorSpecification.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/interpol/StringLookupAdapter.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/interpol/DummyLookup.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/ConfigurationConverter.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/ImmutableConfigurationInvocationHandler.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/XMLListReference.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/NodeMatcher.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/NodeHandlerDecorator.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/ReferenceTracker.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/TreeUtils.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/UnionCombiner.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/NodeUpdateData.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/xpath/XPathContextFactory.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/xpath/ConfigurationNodePointer.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/xpath/ConfigurationAttributePointer.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/xpath/ConfigurationNodePointerFactory.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/xpath/XPathExpressionEngine.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/xpath/ConfigurationNodeIteratorBase.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/xpath/package-info.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/xpath/ConfigurationNodeIteratorChildren.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/xpath/ConfigurationNodeIteratorAttribute.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/InMemoryNodeModelSupport.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/AbstractImmutableNodeHandler.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/NodeHandler.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/InMemoryNodeModel.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/NodeModel.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/TrackedNodeHandler.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/ReferenceNodeHandler.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/MergeCombiner.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/ConfigurationNodeVisitorAdapter.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/NodeTreeWalker.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/ConfigurationNodeVisitor.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/NodeTracker.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/ImmutableNode.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/DefaultConfigurationKey.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/NodeSelector.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/DefaultExpressionEngineSymbols.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/TreeData.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/NodeCombiner.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/OverrideCombiner.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/QueryResult.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/NodeNameMatchers.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/package-info.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/NodeKeyResolver.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/ModelTransaction.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/DefaultExpressionEngine.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/NodeAddData.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/TrackedNodeModel.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/ExpressionEngine.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/tree/NodeModelSupport.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/SystemConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/ConfigurationXMLReader.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/AbstractHierarchicalConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/DefaultParametersManager.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/ConfigurationBuilder.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/FileBasedConfigurationBuilder.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/ConfigurationBuilderResultCreatedEvent.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/DatabaseBuilderParametersImpl.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/PropertiesBuilderProperties.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/ReloadingBuilderSupportListener.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/PropertiesBuilderParametersImpl.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/ConfigurationBuilderEvent.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/BasicBuilderProperties.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/BuilderConfigurationWrapperFactory.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/FileBasedBuilderProperties.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/HierarchicalBuilderProperties.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/BuilderParameters.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/fluent/CombinedBuilderParameters.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/fluent/FileBasedBuilderParameters.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/fluent/DatabaseBuilderParameters.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/fluent/INIBuilderParameters.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/fluent/MultiFileBuilderParameters.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/fluent/Configurations.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/fluent/JndiBuilderParameters.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/fluent/package-info.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/fluent/XMLBuilderParameters.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/fluent/PropertiesBuilderParameters.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/fluent/Parameters.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/fluent/HierarchicalBuilderParameters.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/CopyObjectDefaultHandler.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/XMLBuilderProperties.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/INIBuilderProperties.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/INIBuilderParametersImpl.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/HierarchicalBuilderParametersImpl.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/FileBasedBuilderParametersImpl.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/EventListenerParameters.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/XMLBuilderParametersImpl.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/EventListenerProvider.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/JndiBuilderParametersImpl.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/BasicBuilderParameters.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/AutoSaveListener.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/ReloadingDetectorFactory.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/DefaultReloadingDetectorFactory.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/package-info.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/BasicConfigurationBuilder.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/DatabaseBuilderProperties.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/combined/CombinedConfigurationBuilderProvider.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/combined/MultiFileBuilderProperties.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/combined/MultiWrapDynaClass.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/combined/MultiFileConfigurationBuilder.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/combined/ReloadingCombinedConfigurationBuilder.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/combined/ConfigurationBuilderProvider.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/combined/BaseConfigurationBuilderProvider.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/combined/CombinedBuilderProperties.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/combined/MultiFileConfigurationBuilderProvider.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/combined/ReloadingMultiFileConfigurationBuilder.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/combined/CombinedConfigurationBuilder.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/combined/MultiFileBuilderParametersImpl.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/combined/CombinedBuilderParametersImpl.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/combined/ConfigurationDeclaration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/combined/package-info.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/combined/FileExtensionConfigurationBuilderProvider.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/combined/MultiWrapDynaBean.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/JndiBuilderProperties.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/DefaultParametersHandler.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/builder/ReloadingFileBasedConfigurationBuilder.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/PropertiesConfigurationLayout.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/PrefixedKeysIterator.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/XMLDocumentHelper.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/SubnodeConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/event/EventType.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/event/ConfigurationErrorEvent.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/event/BaseEventSource.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/event/EventSource.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/event/EventListenerList.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/event/ConfigurationEvent.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/event/EventListenerRegistrationData.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/event/package-info.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/event/EventListener.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/event/Event.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/BaseConfigurationXMLReader.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/reloading/ReloadingController.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/reloading/ReloadingDetector.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/reloading/ManagedReloadingDetectorMBean.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/reloading/FileHandlerReloadingDetector.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/reloading/CombinedReloadingController.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/reloading/ReloadingControllerSupport.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/reloading/package-info.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/reloading/ManagedReloadingDetector.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/reloading/ReloadingEvent.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/reloading/PeriodicReloadingTrigger.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/reloading/VFSFileHandlerReloadingDetector.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/ConfigurationDecoder.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/web/ServletContextConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/web/ServletFilterConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/web/BaseWebConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/web/ServletConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/web/package-info.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/web/ServletRequestConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/web/AppletConfiguration.java
+   /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/plist/TokenMgrError.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/plist/PropertyListConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/plist/XMLPropertyListConfiguration.java
+   /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/plist/PropertyListParser.java
+   /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/plist/PropertyListParserConstants.java
+   /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/plist/ParseException.java
+   /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/plist/SimpleCharStream.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/plist/package-info.java
+   /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/plist/Token.java
+   /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/plist/PropertyListParserTokenManager.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/io/ClasspathLocationStrategy.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/io/VerifiableOutputStream.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/io/FileHandlerListenerAdapter.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/io/VFSFileSystem.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/io/FileOptionsProvider.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/io/CombinedLocationStrategy.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/io/FileHandler.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/io/FileLocatorAware.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/io/BasePathLocationStrategy.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/io/FileHandlerListener.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/io/FileSystem.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/io/HomeDirectoryLocationStrategy.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/io/FileBased.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/io/FileLocator.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/io/FileUtils.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/io/ProvidedURLLocationStrategy.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/io/FileLocationStrategy.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/io/DefaultFileSystem.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/io/AbsoluteNameLocationStrategy.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/io/FileLocatorUtils.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/io/FileSystemLocationStrategy.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/io/package-info.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/io/InputStreamSupport.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/io/ConfigurationLogger.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/HierarchicalConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/DataConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/StrictConfigurationComparator.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/MapConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/resolver/EntityResolverSupport.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/resolver/CatalogResolver.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/resolver/DefaultEntityResolver.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/resolver/package-info.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/resolver/EntityRegistry.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/ex/ConfigurationRuntimeException.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/ex/ConfigurationException.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/ex/ConversionException.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/ex/package-info.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/CompositeConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/ImmutableHierarchicalConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/spring/ConfigurationPropertiesFactoryBean.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/spring/package-info.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/spring/ConfigurationPropertySource.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/XMLConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/FindNodeVisitor.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/DynamicCombinedConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/HierarchicalConfigurationConverter.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/ConfigurationUtils.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/Configuration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/DatabaseConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/EnvironmentConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/package-info.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/ConfigurationLookup.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/FileBasedConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/ConfigurationComparator.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/AbstractConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/Initializable.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/PropertiesConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/beanutils/DefaultBeanFactory.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/beanutils/XMLBeanDeclaration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/beanutils/ConfigurationDynaClass.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/beanutils/BeanFactory.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/beanutils/BeanDeclaration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/beanutils/CombinedBeanDeclaration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/beanutils/ConfigurationDynaBean.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/beanutils/BeanHelper.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/beanutils/ConstructorArg.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/beanutils/package-info.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/beanutils/BeanCreationContext.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/SubsetConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/YAMLConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/AbstractYAMLBasedConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/convert/DisabledListDelimiterHandler.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/convert/DefaultListDelimiterHandler.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/convert/PropertyConverter.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/convert/ValueTransformer.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/convert/AbstractListDelimiterHandler.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/convert/DefaultConversionHandler.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/convert/LegacyListDelimiterHandler.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/convert/package-info.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/convert/ConversionHandler.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/main/java/org/apache/commons/configuration2/convert/ListDelimiterHandler.java
+  B     /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/resources/images/logo.png
+  B     /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/resources/images/logo.xcf
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/site.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/mail-lists.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/dependencies.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide_v1.10/howto_utilities.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide_v1.10/howto_xml.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide_v1.10/overview.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide_v1.10/howto_filebased.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide_v1.10/howto_combinedconfiguration.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide_v1.10/howto_events.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide_v1.10/user_guide.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide_v1.10/howto_compositeconfiguration.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide_v1.10/howto_filesystems.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide_v1.10/howto_beans.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide_v1.10/howto_basicfeatures.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide_v1.10/howto_multitenant.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide_v1.10/howto_configurationbuilder.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide_v1.10/howto_properties.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/issue-tracking.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/building.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/dependencies_1_10.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide/howto_utilities.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide/howto_reloading.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide/howto_xml.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide/howto_combinedbuilder.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide/overview.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide/howto_filebased.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide/howto_combinedconfiguration.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide/howto_events.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide/user_guide.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide/howto_compositeconfiguration.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide/howto_beans.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide/quick_start.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide/howto_basicfeatures.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide/howto_hierarchical.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide/howto_multitenant.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide/upgradeto2_0.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide/howto_properties.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide/howto_concurrency.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/userguide/howto_builders.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/download_configuration.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/index.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/site/xdoc/javadocarchive.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testResolver.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testInterpolationBuilder.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testMultiTenentConfigurationBuilder3.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/01/testMultiConfiguration_1001.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testMultiConfiguration_1001.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testDigesterConfigurationOverwrite.properties
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testConfigurationInterpolatorUpdate.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testPatternSubtreeConfig.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/log4j-test.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testDigesterConfigurationInclude2.properties
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testCCResultClass.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testMultiTenentConfigurationBuilder.xml
+  B     /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testChildNamespace.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testComplexInitialization.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testFactoryPropertiesInclude.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/test.ini
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testFileReloadConfigurationBuilder.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testCCFileSystemSubConfig.xml
+  B     /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testEncoding.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testFileSystem.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testGlobalLookup.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testMultiConfiguration_3002.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/include-interpol.properties
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testInterpolation.properties
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testCCMultiTenent.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testSequenceDigester.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testDigesterBadXML.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/dataset.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testdb.script
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/test.properties.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testCCCombinedChildBuilder.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testDigesterConfigurationReverseOrder.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testDigesterConfiguration3.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testMultiConfiguration_1003.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testConfigurationXMLDocument.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testCCSystemProperties.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/resolver.dtd
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testClasspath.properties
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testMultiConfiguration_2001.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testCCReloading.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testDigesterConfigurationBasePath.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testValidateValid.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testDigesterOptionalConfiguration.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/sample.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/sample_1001.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testMultiConfiguration_default.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testcombine1.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testCCCustomProvider.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testExtendedClass.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testDigesterOptionalConfigurationEx.xml
+  B     /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testRootNamespace.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testMultiConfiguration_1002.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testVFSMultiTenentConfigurationBuilder1.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testInterpolation.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testMultiTenentConfigurationBuilder4.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testcombine2.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/jndi.properties
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testDigesterConfiguration.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testMultiConfiguration.xsd
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testVFSMultiTenentConfigurationBuilder2.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/includeoptional.properties
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testHierarchicalXMLConfiguration2.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/configA.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testCCMultiTenentReloading.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testEqualDigester.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testDigesterConfigurationSysProps.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/include.properties
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/test.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testMultiTenentConfigurationBuilder2.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testHierarchicalXMLConfiguration.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testDigesterConfiguration2.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/test.properties
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testMultiConfiguration_3001.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testCCResultInitialization.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testExtendedXMLConfigurationProvider.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testDigesterCreateObject.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testDigesterConfigurationWithProps.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/sample.xsd
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testExpression.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testConfigurationProvider.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testCCLookup.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/jup-test.properties
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testSystemProperties.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testFileReloadConfigurationBuilder2.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/test2.properties
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/includeoptional-target.properties
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testDigesterConfigurationInclude1.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testCCReloadingNested.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testDigesterConfigurationNamespaceAware.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testValidateInvalid.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/test_invalid_date.plist.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/catalog2.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testValidation2.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/config/testMultiInclude.properties
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/config/deep/deeptestinvalid.properties
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/config/deep/testFileFromClasspath.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/config/deep/testEqualDeep.properties
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/config/deep/test.properties
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/config/deep/deeptest.properties
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/config/deep/deepinclude.properties
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/config/test.properties
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testMultiDynamic_default2.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testMultiTenentConfigurationBuilder5.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testDtd.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testValidation.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testValidation3.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/test.plist
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testMultiConfiguration_2002.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/catalog.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testCCEntityResolver.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/test2.plist.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testEqual.properties
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/configB.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/test.plist.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testCCEnvProperties.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testCCFileSystem.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testMultiConfiguration_1004.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/threesome.properties
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testConfigurationFactoryBean.file
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testSequence.properties
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testDtdPublic.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/resources/testMultiDynamic_default.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestPropertiesSequence.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/BaseNonStringProperties.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestBaseConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/sync/TestReadWriteSynchronizer.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestNonStringProperties.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestConfigurationLookup.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestCatalogResolver.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestNullCompositeConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestMapConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/FileURLStreamHandler.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestConfigurationMap.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestDataConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/DatabaseConfigurationTestHelper.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestCompositeConfigurationNonStringProperties.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/interpol/TestDummyLookup.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/interpol/TestSystemPropertiesLookup.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/interpol/TestExprLookup.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/interpol/TestEnvironmentLookup.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/interpol/TestConfigurationInterpolator.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/interpol/TestConstantLookup.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/interpol/TestInterpolatorSpecification.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestAbstractHierarchicalConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestCombinedConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestINIConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestXMLConfiguration_605.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestEqualsProperty.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/TestTreeData.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/TestMergeCombiner.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/TestInMemoryNodeModel.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/TestInMemoryNodeModelTrackedNodes.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/xpath/TestConfigurationAttributePointer.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/xpath/TestConfigurationIteratorAttributes.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/xpath/TestXPathExpressionEngineInConfig.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/xpath/TestConfigurationNodeIteratorChildren.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/xpath/TestConfigurationNodePointer.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/xpath/TestConfigurationNodePointerFactory.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/xpath/TestXPathExpressionEngine.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/xpath/TestXPathContextFactory.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/xpath/AbstractXPathTest.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/NodeStructureHelper.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/TestOverrideCombiner.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/TestNodeNameMatchers.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/TestNodeAddData.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/TestTrackedNodeHandler.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/TestQueryResult.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/TestNodeSelector.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/TestTrackedNodeModel.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/TestDefaultConfigurationKey.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/TestNodeUpdateData.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/TestNodeHandlerDecorator.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/AbstractCombinerTest.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/TestNodeTreeWalker.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/TestDefaultExpressionEngine.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/TestImmutableNode.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/TestInMemoryNodeModelReferences.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/TestDefaultExpressionEngineSymbols.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/TestUnionCombiner.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/tree/AbstractImmutableNodeHandlerTest.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestXMLConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestYAMLConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/TestDefaultReloadingDetectorFactory.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/TestXMLBuilderParametersImpl.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/TestEventListenerParameters.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/TestAutoSaveListener.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/TestFileBasedConfigurationBuilder.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/TestFileBasedBuilderParameters.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/TestDefaultParametersManager.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/TestBuilderConfigurationWrapperFactory.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/ParametersBeanTestImpl.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/fluent/TestConfigurations.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/fluent/TestParameters.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/TestBasicConfigurationBuilder.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/TestPropertiesBuilderParametersImpl.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/TestCopyObjectDefaultHandler.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/TestReloadingFileBasedConfigurationBuilder.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/TestDatabaseBuilderParametersImpl.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/TestBasicConfigurationBuilderEvents.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/TestReloadingBuilderSupportListener.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/BuilderEventListenerImpl.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/TestJndiBuilderParametersImpl.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/combined/TestCombinedBuilderParametersImpl.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/combined/TestFileExtensionConfigurationBuilderProvider.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/combined/TestReloadingCombinedConfigurationBuilder.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/combined/TestMultiWrapDynaBean.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/combined/TestCombinedConfigurationBuilderVFS.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/combined/TestReloadingCombinedConfigurationBuilderFileBased.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/combined/TestCombinedConfigurationBuilder.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/combined/TestBaseConfigurationBuilderProvider.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/combined/TestMultiFileBuilderParametersImpl.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/combined/TestConfigurationDeclaration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/combined/TestMultiFileConfigurationBuilder.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/combined/AbstractMultiFileConfigurationBuilderTest.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/combined/TestReloadingMultiFileConfigurationBuilder.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/TestBasicBuilderParameters.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/builder/TestHierarchicalBuilderParametersImpl.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/InterpolationTestHelper.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestJNDIEnvironmentValues.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestNullJNDIEnvironmentValues.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/event/TestConfigurationEventTypes.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/event/TestEventSource.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/event/TestEvent.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/event/EventListenerTestImpl.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/event/TestSubsetConfigurationEvents.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/event/TestDatabaseConfigurationEvents.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/event/AbstractTestConfigurationEvents.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/event/TestEventListenerList.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/event/ErrorListenerTestImpl.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/event/TestEventType.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/event/AbstractEventListenerTestImpl.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/event/TestPropertiesConfigurationEvents.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/event/TestXMLConfigurationEvents.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/event/TestMapConfigurationEvents.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/event/TestHierarchicalConfigurationEvents.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/reloading/TestVFSFileHandlerReloadingDetector.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/reloading/RandomReloadingDetector.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/reloading/TestFileHandlerReloadingDetector.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/reloading/TestManagedReloadingDetector.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/reloading/TestReloadingController.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/reloading/TestCombinedReloadingController.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/reloading/AlwaysReloadingDetector.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/reloading/TestPeriodicReloadingTrigger.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/web/TestServletRequestConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/web/TestServletConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/web/TestServletFilterConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/web/TestServletContextConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/web/TestAppletConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/plist/TestPropertyListConfigurationEvents.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/plist/TestXMLPropertyListConfigurationEvents.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/plist/TestXMLPropertyListConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/plist/AbstractTestPListEvents.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/plist/TestPropertyListConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/plist/TestPropertyListParser.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/io/TestCombinedLocationStrategy.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/io/TestFileLocator.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/io/TestDefaultFileSystem.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/io/TestBasePathLocationStrategy.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/io/TestHomeDirectoryLocationStrategy.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/io/TestProvidedURLLocationStrategy.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/io/TestAbsoluteNameLocationStrategy.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/io/TestFileLocatorUtils.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/io/TestClasspathLocationStrategy.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/io/TestConfigurationLogger.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/io/TestFileHandler.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/io/TestFileSystemLocationStrategy.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestJNDIConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestEqualBehaviour.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestAbstractConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestAbstractConfigurationSynchronization.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestEnvironmentConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestStrictConfigurationComparator.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/test/HsqlDB.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/NonStringTestHolder.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestCompositeConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/SynchronizerTestImpl.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestXMLPropertiesConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/spring/TestConfigurationPropertiesFactoryBean.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/spring/TestConfigurationPropertySource.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestDynamicCombinedConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestHierarchicalConfigurationXMLReader.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestSubnodeConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestThreesomeConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestBaseConfigurationXMLReader.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/NonCloneableConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/MockInitialContextFactory.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestBaseHierarchicalConfigurationSynchronization.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestHierarchicalXMLConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/ConfigurationAssert.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestBaseNullConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestConfigurationSet.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestConfigurationConverter.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestXMLListHandling.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestPropertiesConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestJSONConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestSubsetConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestPropertiesConfigurationLayout.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestImmutableConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestPatternSubtreeConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestDatabaseConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestConfigurationUtils.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/beanutils/TestConstructorArg.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/beanutils/TestXMLBeanDeclaration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/beanutils/TestBeanHelper.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/beanutils/TestDefaultBeanFactory.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/beanutils/BeanCreationTestBeanWithListChild.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/beanutils/BeanDeclarationTestImpl.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/beanutils/TestConfigurationDynaBeanXMLConfig.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/beanutils/TestConfigurationDynaBean.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/beanutils/BeanCreationTestBean.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/beanutils/BeanCreationTestCtorBean.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/beanutils/TestCombinedBeanDeclaration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestSystemConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestXMLDocumentHelper.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestAbstractConfigurationBasicFeatures.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/TestHierarchicalConfiguration.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/Logging.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/convert/TestDefaultConversionHandler.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/convert/TestDisabledListDelimiterHandler.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/convert/TestDefaultListDelimiterHandler.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/org/apache/commons/configuration2/convert/TestPropertyConverter.java
+ !????? /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/TestRunner.java
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/changes/release-notes.vm
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/changes/changes.xml
+  N     /home/stephan/Desktop/applications/original/commons-configuration-2.5/LICENSE.txt
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/conf/HEADER.txt
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/conf/checkstyle.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/conf/checkstyle-suppressions.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/conf/CommonsConfiguration.xsd
+  N     /home/stephan/Desktop/applications/original/commons-configuration-2.5/conf/README
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/conf/findbugs-exclude-filter.xml
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/CONTRIBUTING.md
+  N     /home/stephan/Desktop/applications/original/commons-configuration-2.5/NOTICE.txt
+  AL    /home/stephan/Desktop/applications/original/commons-configuration-2.5/README.md
+ 
+*****************************************************
+
+ Printing headers for text files without a valid license header...
+ 
+=====================================================
+== File: /home/stephan/Desktop/applications/original/commons-configuration-2.5/src/test/java/TestRunner.java
+=====================================================
+import org.junit.runner.Result;
+
+import org.apache.commons.configuration2.*;
+import org.apache.commons.configuration2.beanutils.*;
+import org.apache.commons.configuration2.builder.*;
+import org.apache.commons.configuration2.builder.combined.*;
+import org.apache.commons.configuration2.builder.fluent.*;
+import org.apache.commons.configuration2.convert.*;
+import org.apache.commons.configuration2.event.*;
+import org.apache.commons.configuration2.interpol.*;
+import org.apache.commons.configuration2.io.*;
+import org.apache.commons.configuration2.plist.*;
+import org.apache.commons.configuration2.reloading.*;
+import org.apache.commons.configuration2.spring.*;
+import org.apache.commons.configuration2.sync.*;
+import org.apache.commons.configuration2.test.*;
+import org.apache.commons.configuration2.tree.*;
+import org.apache.commons.configuration2.tree.xpath.*;
+import org.apache.commons.configuration2.web.*;
+
+public class TestRunner {
+	private final static int AMOUNTOFTESTS = 2806;
+	
+	public static void main(String[] args) 
+	{
+//		Check arguments
+		int repeats = validateArgument(args);
+		
+		System.out.println("Repeating " + repeats + " times.");
+		runTests(repeats);
+		
+		System.out.println("finished");
+		System.exit(0);
+	}
+
+	public static int validateArgument(String[] args) {
+		if (args.length != 1) {
+			System.out.println("You must specify the amount of loops by parsing one argument");
+			System.exit(1);
+		}
+		
+		try {
+			return Integer.parseInt(args[0]);			
+		}
+		catch (NumberFormatException e) {
+			System.out.println("Parsed argument is not an integer: " + e.getMessage());
+			System.exit(2);
+		}
+		
+		return 0;
