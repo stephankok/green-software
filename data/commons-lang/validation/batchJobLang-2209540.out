@@ -1,0 +1,8 @@
+Running on: node029 time: Sat Jul 27 10:33:40 CEST 2019
+JOBID: 2209540
+Measurement script (DAS-4): /home/skok/PDU/measure_continues.sh
+Kill script (DAS-4): /home/skok/PDU/kill_script.sh
+Run: java -jar programs/lang-longmethod.jar 40
+Repeating 40 times.
+Exiting successful
+/cm/local/apps/slurm/var/spool/job2209540/slurm_script: line 52: >>FastDateFormatTest:: command not found

@@ -1,0 +1,7 @@
+Running on: node029 time: Fri Jul 26 07:39:07 CEST 2019
+JOBID: 2208910
+Measurement script (DAS-4): /home/skok/PDU/measure_continues.sh
+Kill script (DAS-4): /home/skok/PDU/kill_script.sh
+Run: java -jar programs/classmate-duplicate.jar 150000
+Repeating 150000 times.
+Exiting successful

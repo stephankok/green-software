@@ -1,0 +1,116 @@
+Running on: node029 time: Wed Jul 24 07:04:32 CEST 2019
+JOBID: 2208266
+Measurement script (DAS-4): /home/skok/PDU/measure_continues.sh
+Kill script (DAS-4): /home/skok/PDU/kill_script.sh
+Run: java -cp programs/configuration/configuration-duplicate-logging.jar:programs/configuration/mvndep/* TestRunner 25
+Repeating 25 times.
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/skok/programs/configuration/mvndep/slf4j-log4j12-1.7.26.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/skok/programs/configuration/mvndep/slf4j-nop-1.7.26.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.Log4jLoggerFactory]
+[Fatal Error] :1:39: The element type "test" must be terminated by the matching end-tag "</test>".
+Warning: validation was turned on but an org.xml.sax.ErrorHandler was not set, which is probably not what is desired.  Parser will use a default ErrorHandler to print the first 0  errors.  Please call the setErrorHandler method to fix this.
+Error: URI=null Line=1: Document root element "properties", must match DOCTYPE root "null".
+Error: URI=null Line=1: Document is invalid: no grammar found.
+log4j:WARN No appenders could be found for logger (TestLogger).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[Fatal Error] :1:39: The element type "test" must be terminated by the matching end-tag "</test>".
+Warning: validation was turned on but an org.xml.sax.ErrorHandler was not set, which is probably not what is desired.  Parser will use a default ErrorHandler to print the first 0  errors.  Please call the setErrorHandler method to fix this.
+Error: URI=null Line=1: Document root element "properties", must match DOCTYPE root "null".
+Error: URI=null Line=1: Document is invalid: no grammar found.
+[Fatal Error] :1:39: The element type "test" must be terminated by the matching end-tag "</test>".
+Warning: validation was turned on but an org.xml.sax.ErrorHandler was not set, which is probably not what is desired.  Parser will use a default ErrorHandler to print the first 0  errors.  Please call the setErrorHandler method to fix this.
+Error: URI=null Line=1: Document root element "properties", must match DOCTYPE root "null".
+Error: URI=null Line=1: Document is invalid: no grammar found.
+[Fatal Error] :1:39: The element type "test" must be terminated by the matching end-tag "</test>".
+Warning: validation was turned on but an org.xml.sax.ErrorHandler was not set, which is probably not what is desired.  Parser will use a default ErrorHandler to print the first 0  errors.  Please call the setErrorHandler method to fix this.
+Error: URI=null Line=1: Document root element "properties", must match DOCTYPE root "null".
+Error: URI=null Line=1: Document is invalid: no grammar found.
+[Fatal Error] :1:39: The element type "test" must be terminated by the matching end-tag "</test>".
+Warning: validation was turned on but an org.xml.sax.ErrorHandler was not set, which is probably not what is desired.  Parser will use a default ErrorHandler to print the first 0  errors.  Please call the setErrorHandler method to fix this.
+Error: URI=null Line=1: Document root element "properties", must match DOCTYPE root "null".
+Error: URI=null Line=1: Document is invalid: no grammar found.
+[Fatal Error] :1:39: The element type "test" must be terminated by the matching end-tag "</test>".
+Warning: validation was turned on but an org.xml.sax.ErrorHandler was not set, which is probably not what is desired.  Parser will use a default ErrorHandler to print the first 0  errors.  Please call the setErrorHandler method to fix this.
+Error: URI=null Line=1: Document root element "properties", must match DOCTYPE root "null".
+Error: URI=null Line=1: Document is invalid: no grammar found.
+[Fatal Error] :1:39: The element type "test" must be terminated by the matching end-tag "</test>".
+Warning: validation was turned on but an org.xml.sax.ErrorHandler was not set, which is probably not what is desired.  Parser will use a default ErrorHandler to print the first 0  errors.  Please call the setErrorHandler method to fix this.
+Error: URI=null Line=1: Document root element "properties", must match DOCTYPE root "null".
+Error: URI=null Line=1: Document is invalid: no grammar found.
+[Fatal Error] :1:39: The element type "test" must be terminated by the matching end-tag "</test>".
+Warning: validation was turned on but an org.xml.sax.ErrorHandler was not set, which is probably not what is desired.  Parser will use a default ErrorHandler to print the first 0  errors.  Please call the setErrorHandler method to fix this.
+Error: URI=null Line=1: Document root element "properties", must match DOCTYPE root "null".
+Error: URI=null Line=1: Document is invalid: no grammar found.
+[Fatal Error] :1:39: The element type "test" must be terminated by the matching end-tag "</test>".
+Warning: validation was turned on but an org.xml.sax.ErrorHandler was not set, which is probably not what is desired.  Parser will use a default ErrorHandler to print the first 0  errors.  Please call the setErrorHandler method to fix this.
+Error: URI=null Line=1: Document root element "properties", must match DOCTYPE root "null".
+Error: URI=null Line=1: Document is invalid: no grammar found.
+[Fatal Error] :1:39: The element type "test" must be terminated by the matching end-tag "</test>".
+Warning: validation was turned on but an org.xml.sax.ErrorHandler was not set, which is probably not what is desired.  Parser will use a default ErrorHandler to print the first 0  errors.  Please call the setErrorHandler method to fix this.
+Error: URI=null Line=1: Document root element "properties", must match DOCTYPE root "null".
+Error: URI=null Line=1: Document is invalid: no grammar found.
+[Fatal Error] :1:39: The element type "test" must be terminated by the matching end-tag "</test>".
+Warning: validation was turned on but an org.xml.sax.ErrorHandler was not set, which is probably not what is desired.  Parser will use a default ErrorHandler to print the first 0  errors.  Please call the setErrorHandler method to fix this.
+Error: URI=null Line=1: Document root element "properties", must match DOCTYPE root "null".
+Error: URI=null Line=1: Document is invalid: no grammar found.
+[Fatal Error] :1:39: The element type "test" must be terminated by the matching end-tag "</test>".
+Warning: validation was turned on but an org.xml.sax.ErrorHandler was not set, which is probably not what is desired.  Parser will use a default ErrorHandler to print the first 0  errors.  Please call the setErrorHandler method to fix this.
+Error: URI=null Line=1: Document root element "properties", must match DOCTYPE root "null".
+Error: URI=null Line=1: Document is invalid: no grammar found.
+[Fatal Error] :1:39: The element type "test" must be terminated by the matching end-tag "</test>".
+Warning: validation was turned on but an org.xml.sax.ErrorHandler was not set, which is probably not what is desired.  Parser will use a default ErrorHandler to print the first 0  errors.  Please call the setErrorHandler method to fix this.
+Error: URI=null Line=1: Document root element "properties", must match DOCTYPE root "null".
+Error: URI=null Line=1: Document is invalid: no grammar found.
+[Fatal Error] :1:39: The element type "test" must be terminated by the matching end-tag "</test>".
+Warning: validation was turned on but an org.xml.sax.ErrorHandler was not set, which is probably not what is desired.  Parser will use a default ErrorHandler to print the first 0  errors.  Please call the setErrorHandler method to fix this.
+Error: URI=null Line=1: Document root element "properties", must match DOCTYPE root "null".
+Error: URI=null Line=1: Document is invalid: no grammar found.
+[Fatal Error] :1:39: The element type "test" must be terminated by the matching end-tag "</test>".
+Warning: validation was turned on but an org.xml.sax.ErrorHandler was not set, which is probably not what is desired.  Parser will use a default ErrorHandler to print the first 0  errors.  Please call the setErrorHandler method to fix this.
+Error: URI=null Line=1: Document root element "properties", must match DOCTYPE root "null".
+Error: URI=null Line=1: Document is invalid: no grammar found.
+[Fatal Error] :1:39: The element type "test" must be terminated by the matching end-tag "</test>".
+Warning: validation was turned on but an org.xml.sax.ErrorHandler was not set, which is probably not what is desired.  Parser will use a default ErrorHandler to print the first 0  errors.  Please call the setErrorHandler method to fix this.
+Error: URI=null Line=1: Document root element "properties", must match DOCTYPE root "null".
+Error: URI=null Line=1: Document is invalid: no grammar found.
+[Fatal Error] :1:39: The element type "test" must be terminated by the matching end-tag "</test>".
+Warning: validation was turned on but an org.xml.sax.ErrorHandler was not set, which is probably not what is desired.  Parser will use a default ErrorHandler to print the first 0  errors.  Please call the setErrorHandler method to fix this.
+Error: URI=null Line=1: Document root element "properties", must match DOCTYPE root "null".
+Error: URI=null Line=1: Document is invalid: no grammar found.
+[Fatal Error] :1:39: The element type "test" must be terminated by the matching end-tag "</test>".
+Warning: validation was turned on but an org.xml.sax.ErrorHandler was not set, which is probably not what is desired.  Parser will use a default ErrorHandler to print the first 0  errors.  Please call the setErrorHandler method to fix this.
+Error: URI=null Line=1: Document root element "properties", must match DOCTYPE root "null".
+Error: URI=null Line=1: Document is invalid: no grammar found.
+[Fatal Error] :1:39: The element type "test" must be terminated by the matching end-tag "</test>".
+Warning: validation was turned on but an org.xml.sax.ErrorHandler was not set, which is probably not what is desired.  Parser will use a default ErrorHandler to print the first 0  errors.  Please call the setErrorHandler method to fix this.
+Error: URI=null Line=1: Document root element "properties", must match DOCTYPE root "null".
+Error: URI=null Line=1: Document is invalid: no grammar found.
+[Fatal Error] :1:39: The element type "test" must be terminated by the matching end-tag "</test>".
+Warning: validation was turned on but an org.xml.sax.ErrorHandler was not set, which is probably not what is desired.  Parser will use a default ErrorHandler to print the first 0  errors.  Please call the setErrorHandler method to fix this.
+Error: URI=null Line=1: Document root element "properties", must match DOCTYPE root "null".
+Error: URI=null Line=1: Document is invalid: no grammar found.
+[Fatal Error] :1:39: The element type "test" must be terminated by the matching end-tag "</test>".
+Warning: validation was turned on but an org.xml.sax.ErrorHandler was not set, which is probably not what is desired.  Parser will use a default ErrorHandler to print the first 0  errors.  Please call the setErrorHandler method to fix this.
+Error: URI=null Line=1: Document root element "properties", must match DOCTYPE root "null".
+Error: URI=null Line=1: Document is invalid: no grammar found.
+[Fatal Error] :1:39: The element type "test" must be terminated by the matching end-tag "</test>".
+Warning: validation was turned on but an org.xml.sax.ErrorHandler was not set, which is probably not what is desired.  Parser will use a default ErrorHandler to print the first 0  errors.  Please call the setErrorHandler method to fix this.
+Error: URI=null Line=1: Document root element "properties", must match DOCTYPE root "null".
+Error: URI=null Line=1: Document is invalid: no grammar found.
+[Fatal Error] :1:39: The element type "test" must be terminated by the matching end-tag "</test>".
+Warning: validation was turned on but an org.xml.sax.ErrorHandler was not set, which is probably not what is desired.  Parser will use a default ErrorHandler to print the first 0  errors.  Please call the setErrorHandler method to fix this.
+Error: URI=null Line=1: Document root element "properties", must match DOCTYPE root "null".
+Error: URI=null Line=1: Document is invalid: no grammar found.
+[Fatal Error] :1:39: The element type "test" must be terminated by the matching end-tag "</test>".
+Warning: validation was turned on but an org.xml.sax.ErrorHandler was not set, which is probably not what is desired.  Parser will use a default ErrorHandler to print the first 0  errors.  Please call the setErrorHandler method to fix this.
+Error: URI=null Line=1: Document root element "properties", must match DOCTYPE root "null".
+Error: URI=null Line=1: Document is invalid: no grammar found.
+[Fatal Error] :1:39: The element type "test" must be terminated by the matching end-tag "</test>".
+Warning: validation was turned on but an org.xml.sax.ErrorHandler was not set, which is probably not what is desired.  Parser will use a default ErrorHandler to print the first 0  errors.  Please call the setErrorHandler method to fix this.
+Error: URI=null Line=1: Document root element "properties", must match DOCTYPE root "null".
+Error: URI=null Line=1: Document is invalid: no grammar found.
+Exiting successful
+/cm/local/apps/slurm/var/spool/job2208266/slurm_script: line 52: unknownEscapeSequences: command not found
