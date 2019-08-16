@@ -1,0 +1,9 @@
+# This is the last known port to node mapping:
+# port 0: unused
+# port 1: unused
+# port 2: DAS-5/node029
+# port 3: DAS-5/node028
+# port 4: DAS-5/node027
+# port 5: DAS-5/node026
+# port 6: DAS-5/node025
+# port 7: DAS-5/node024

@@ -1,0 +1,55 @@
+#!/bin/sh
+#SBATCH -N 1 -w "node029"
+#SBATCH --cpus-per-task=32 --output="results/%x-%j.out"
+
+echo "Running on: `hostname` time: `date`"
+echo "JOBID: $SLURM_JOB_ID"
+
+# Update accordingly
+port=2
+repeats=25
+programname="configuration-godclass-logging"
+
+# port 2: DAS-5/node029
+# port 3: DAS-5/node028
+# port 4: DAS-5/node027
+# port 5: DAS-5/node026
+# port 6: DAS-5/node025
+# port 7: DAS-5/node024
+
+# create
+pdu_measurement="$programname-$port-$repeats-$SLURM_JOB_ID.csv"
+pdu_idle="$programname-$port-$repeats-$SLURM_JOB_ID-idle.csv"
+command="java -cp programs/configuration/$programname.jar:programs/configuration/mvndep/* TestRunner $repeats"
+
+
+# PLEASE CHANGE TO YOUR HOME DIRECTORY
+measure_script="/home/skok/PDU/measure_continues.sh"
+kill_measurement="/home/skok/PDU/kill_script.sh"
+output="/home/skok/results/$outputname"
+
+# report
+echo "Measurement script (DAS-4): $measure_script"
+echo "Kill script (DAS-4): $kill_measurement"
+echo "Run: $command"
+
+# make sure no measurement is running
+ssh skok@fs0.das4.cs.vu.nl $kill_measurement
+
+# Start measurement
+ssh skok@fs0.das4.cs.vu.nl $measure_script -o "$output$pdu_idle" -p $port &
+
+sleep 60
+
+# make sure no measurement is running
+ssh skok@fs0.das4.cs.vu.nl $kill_measurement
+ssh skok@fs0.das4.cs.vu.nl $kill_measurement
+
+# Start measurement
+ssh skok@fs0.das4.cs.vu.nl $measure_script -o "$output$pdu_measurement" -p $port &
+
+# program run 1 time
+`$command`
+
+# Stop measurement
+ssh skok@fs0.das4.cs.vu.nl $kill_measurement
